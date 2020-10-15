@@ -1,4 +1,4 @@
-# Proyecto Base JWT JSON Web Token
+# Proyecto Base JWT(JSON Web Token)
 ## Endpoints
 ###
 ##### Identificar si la api se está ejecutando
